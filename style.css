@@ -1,0 +1,49 @@
+html{
+    height: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+#container{
+    
+}
+
+header{
+    width: 520px;
+    height: 50px;
+    background-color: bisque;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+main{
+    display:flex;
+}
+
+nav{
+    width: 150px;
+    height: 400px;
+    background-color: coral;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+article{
+    width: 350px;
+    height: 400px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+footer{
+    width: 520px;
+    height: 50px;
+    background-color: crimson;
+    border-radius: 10px;
+    margin: 10px;
+}
+
